@@ -23,7 +23,9 @@ and in your css file
 	
 replace `FONT-NAME` with available fonts like `BBadr`,`IranianSans` or etc. 
 for example:
+
 	body{ font-family: "B Badr"}
+
 Available Fonts (41 Fonts)
 ------------------
 
