@@ -4,7 +4,7 @@
        url('https://raw.githubusercontent.com/rayeshman/css-persian/master/fonts/BBadr.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
        url('https://raw.githubusercontent.com/rayeshman/css-persian/master/fonts/BBadr.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
-https://raw.githubusercontent.com/rayeshman/css-persian/master/fonts/BBadr.ttf
+
 @font-face {
   font-family: 'BBaran';
   src: url('https://raw.githubusercontent.com/rayeshman/css-persian/master/fonts/BBaran.eot?#') format('eot'),  /* IE6–8 */
